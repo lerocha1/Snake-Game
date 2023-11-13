@@ -19,3 +19,4 @@ Então rode o comando abaixo e volte ao passo de ativar a venv
 no modo administrador no powershell - Set-ExecutionPolicy Unrestricted
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-FfzUCXjdJ3lWN6DZ+zU8EqB7Wynfy1gozCCMBsSs2ldxsnxUn4CovA18lirXeDzC" crossorigin="anonymous">
+<i class="fas fa-heart"></i> 
