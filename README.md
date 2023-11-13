@@ -22,4 +22,4 @@ Então rode o comando abaixo e volte ao passo de ativar a venv
 no modo administrador no powershell - Set-ExecutionPolicy Unrestricted
 
 
-
+![Alt text](image.png)
